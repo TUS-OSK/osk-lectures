@@ -30,4 +30,4 @@ C++ を使って AtCoder の問題に挑戦できるようになることを目�
 
 - 分からないことがあれば、対面や Discord の `kyopro-質問` チャンネルで質問してください。
 
-- 余力のある人は、[APG4B](https://atcoder.jp/contests/apg4b) の該当するページを読むことをおすすめします。
+- 余力のある人は、[APG4b](https://atcoder.jp/contests/apg4b) の該当するページを読むことをおすすめします。
