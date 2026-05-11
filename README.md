@@ -4,4 +4,4 @@
 
 ## 2026
 
-- [初心者講義](./2026/beginner-lectures/)
+- [新入生講義](./2026/beginner-lectures/)
