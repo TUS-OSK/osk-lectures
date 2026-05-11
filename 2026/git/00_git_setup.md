@@ -85,13 +85,10 @@ ssh-keygen -t ed25519
 
 ### 2. 公開鍵を GitHub に登録
 1.  GitHub にログインし、右上のアイコンから **Settings** を開きます。
-    ![Settings を開く](img/image%201.png)
 2.  左メニューの **SSH and GPG keys** をクリックします。
 3.  **New SSH key** をクリックします。
-    ![SSH keys ページ](img/image%202.png)
 4.  Title には「macbook」など、自分の PC と分かる名前を付けます。
 5.  Key 欄に、作成された公開鍵（`~/.ssh/id_ed25519.pub`）の中身を全てコピーして貼り付けます。
-    ![新規登録フォーム](img/image%203.png)
     - macOS なら `cat ~/.ssh/id_ed25519.pub | pbcopy` でコピーできます。
     - Windows なら `cat ~/.ssh/id_ed25519.pub` で表示された文字列をコピーします。
 6.  **Add SSH key** を押して完了です！

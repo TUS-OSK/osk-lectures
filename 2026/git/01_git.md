@@ -10,9 +10,7 @@
 
 ### 1. GitHub でリポジトリを作る
 1.  GitHub のトップページから **New** ボタン（緑色）をクリックします。
-    ![New ボタン](img/image.png)
 2.  **Repository name** を入力し、**Public** か **Private** を選択して **Create repository** をクリックします。
-    ![リポジトリ作成フォーム](img/image%206.png)
 
 ### 2. PC と連携する（2つのパターン）
 
@@ -35,7 +33,6 @@ cd <フォルダ名>
 
 #### パターンB：すでに手元にファイルがある場合
 すでに PC でコードを書き始めていて、それを後から GitHub に上げたい場合の手順です。
-![セットアップ画面](img/image%207.png)
 
 ```bash
 cd <作業中のフォルダ>
@@ -43,7 +40,6 @@ git init
 git remote add origin git@github.com:ユーザー名/リポジトリ名.git
 git branch -M main
 ```
-（上の画像に表示されているコマンドを順番に実行します）
 
 ---
 
